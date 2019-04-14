@@ -1,7 +1,7 @@
 
 // ≥Ã–Ú«Âµ•2-2
 #include <iostream>
-int main()
+/*int main()
 {
 	using namespace std;
 
@@ -15,4 +15,4 @@ int main()
 	carrots = carrots - 1;
 	cout << "Now I have " << carrots << " carrots." << endl;
 	return 0;
-}
+}*/

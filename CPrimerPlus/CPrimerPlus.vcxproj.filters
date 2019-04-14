@@ -20,10 +20,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="myfirst.cpp">
+    <ClCompile Include="_2_1myfirst.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="carrots.cpp">
+    <ClCompile Include="_2_2carrots.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_3getinfo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

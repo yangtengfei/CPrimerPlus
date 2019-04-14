@@ -151,8 +151,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="carrots.cpp" />
-    <ClCompile Include="myfirst.cpp" />
+    <ClCompile Include="_2_2carrots.cpp" />
+    <ClCompile Include="_2_1myfirst.cpp" />
+    <ClCompile Include="_2_3getinfo.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myfirst.h" />
